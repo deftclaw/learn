@@ -1,7 +1,7 @@
 
 # [ Copying large files with Rsync, and some misconceptions](https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/)  
-_By Daniel Leite de Abreu on September 16, 2019 - Fedora Magazine_  
-_Accessed as of 2/24/22, 9:49 AM_  
+###### _By Daniel Leite de Abreu on September 16, 2019 - Fedora Magazine_  
+###### _Accessed as of 2/24/22, 9:49 AM_  
 
 There is a notion that a lot of people working in the IT industry often copy and paste from 
 internet howtos. We all do it, and the copy-and-paste itself is not a problem. The problem 
