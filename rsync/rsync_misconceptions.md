@@ -115,6 +115,6 @@ efficient.
 
 ###### Fedora Project Community  
 ###### Daniel Leite de Abreu  
-_A Father, a husband and another Open source enthusiast._  
+###### _A Father, a husband and another Open source enthusiast._  
 
 [Copying large files with Rsync, and some misconceptions]("https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/")  
