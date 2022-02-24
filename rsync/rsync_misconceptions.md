@@ -114,7 +114,7 @@ All the following updates were only copying the difference, making the copy to b
 efficient.  
 
 ###### Fedora Project Community  
-###### \ Daniel Leite de Abreu  
-_A Father, a husband and another Open source enthusiast._  
+###### Daniel Leite de Abreu  
+###### _A Father, a husband and another Open source enthusiast._  
 
 [Copying large files with Rsync, and some misconceptions]("https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/ 2/15 2/24/22, 9:49 AM Copying large files with Rsync, and some misconceptions - Fedora Magazine")  
