@@ -16,9 +16,6 @@ However, what most of us forget is to understand what rsync really is, and how i
 and the most important in my opinion is, where it come from. This article provides some 
 further information about rsync, and an explanation of what happened in that story.  
 
-https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/ 1/15
-2/24/22, 9:49 AM Copying large files with Rsync, and some misconceptions - Fedora Magazine  
-
 ## About rsync  
 
 rsync is a tool which was created by Andrew Tridgell and Paul Mackerras who were motivated by 
